@@ -12,7 +12,8 @@ Linea divisoria
 Esto es un parrafo normal;  
  _Esto esta en cursiva_;  
  **Y esto en negrita**;  
-  **_Y esto en cursiva y negrita_** 
+  **_Y esto en cursiva y negrita_**  
+  ~~Esto es un texto tachado~~
 
   *** 
   Enlaces:  
@@ -38,6 +39,28 @@ Sublistas:
     * Junio
     * Julio
     * Agosto
+
+---
+Tablas:  
+|Nombre|Edad|Email|
+|---|---|---|
+|Jhon|35|correo@gmail.com|
+Daniel|54|correo@hotmail.com|
+|Jose|37|aroba@gmail.es|
+
+<!--Esto esta dentro de un comentario-->
+Codigos: 
+***  
+```css
+.container{
+    blackground-color: white;
+    border:solid 1px dotted;
+}
+```
+```js
+console.log("Esto es codigo js");
+```
+
     
 
     
