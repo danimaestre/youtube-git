@@ -16,6 +16,34 @@ Esto es un parrafo normal;
 
   *** 
   Enlaces:  
-  [jw.org](https://www.jw.org)
+  [jw.org](https://www.jw.org)  
+  ![perro](img/perro.jpeg)
+
+***
+
+Listas:
+
+1. Verano
+    1. junio
+    2. Julio 
+    1. Agosto
+1. Otoño
+1. Invierno
+1. Primavera
+
+Sublistas:
+***
+
+* Verano
+    * Junio
+    * Julio
+    * Agosto
+    
+
+    
+
+    
+
+    
 
 
