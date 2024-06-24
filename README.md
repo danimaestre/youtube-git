@@ -16,6 +16,6 @@ Esto es un parrafo normal;
 
   *** 
   Enlaces:  
-  [jw.org](https:/www.jw.org)
+  [jw.org](https://www.jw.org)
 
 
